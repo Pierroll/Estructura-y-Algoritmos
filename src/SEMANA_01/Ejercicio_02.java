@@ -11,5 +11,10 @@ package SEMANA_01;
 public class Ejercicio_02 {
      public static void main (String[] args ){
       System.out.println("No importa que tan fuerte golpee la vida, importa que tan resistente eres");
+      //System.out.println("equisde"); 
      }
 }
+/**pi
+ * er
+ * ol
+ */
