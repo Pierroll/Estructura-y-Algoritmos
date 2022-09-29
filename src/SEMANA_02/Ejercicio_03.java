@@ -13,9 +13,9 @@ import java.util.Random;
 
 class Producto{
    private int  codigo;
-   private String descripcion;
-   private  int cantidad;
-   private  double  precio_Unitario; 
+       String descripcion;
+       int cantidad;
+       double  precio_Unitario; 
 
     public Producto(int codigo, String descripcion, int cantidad, double precio_Unitario) {
         this.codigo = codigo;

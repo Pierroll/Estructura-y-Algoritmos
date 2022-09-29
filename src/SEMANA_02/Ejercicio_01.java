@@ -19,6 +19,6 @@ public class Ejercicio_01 {
        System.out.println("Introducción el valor del segundo cateto: "); 
        cateto_02=sc.nextDouble();  
        double Hipotenusa=Math.sqrt(Math.pow(cateto_01,2)+Math.pow(cateto_02, 2));
-       System.out.println("La hipotenusa es:"+Hipotenusa);
+       System.out.println("La hipotenusa es: "+Hipotenusa);
      }
 }
