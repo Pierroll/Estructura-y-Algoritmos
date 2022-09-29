@@ -1,4 +1,0 @@
-SEMANA_02.ejer01
-SEMANA_02.Ejercicio_01
-SEMANA_02.TrianguloRectangulo
-SEMANA_02.Perro
