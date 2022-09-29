@@ -60,5 +60,4 @@ public class Ejercicio_03 {
            System.out.println("Datos de Producto:  \n "+p.mostrarProducto()+"\n\nEl Precio Total : "+p. calcularPrecioTotal()+"\nEl IGV  es :  "+p.calcularIGV());
            System.out.println("El monto  Total a pagar es : "+p.calcularMontoToataPagar());
     }
-    
 }
