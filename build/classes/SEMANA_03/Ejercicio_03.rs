@@ -1,3 +1,0 @@
-SEMANA_03.Perro
-SEMANA_03.Enunciado_03
-SEMANA_03.Ejercicio_03

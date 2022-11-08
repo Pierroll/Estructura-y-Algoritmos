@@ -1,2 +1,0 @@
-SEMANA_05.Operaciones
-SEMANA_05.Ejercicio_01

@@ -6,12 +6,16 @@ package SEMANA_01;
 
 /**
  *
- * @author ppier
+ * @author Pierol
  */
 
 public class Ejercicio_01 {
 
     public static void main(String[] args) {
-         System.out.println("maria");   
-    }
+        System.out.println("No se muere el quien se va, solo se muere el quien se olvida ");//esto es un comentario
+        System.out.println("~Canserebero");
+    } 
 }
+/**
+ * Pierol
+ */

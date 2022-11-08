@@ -7,7 +7,7 @@ package SEMANA_02;
 import java.util.Scanner;
 /**
  *
- * @author ppier
+ * @author Pierol
  */
 public class Ejercicio_01 {
    public static void main(String[] args) {
